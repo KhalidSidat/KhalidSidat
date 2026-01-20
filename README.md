@@ -1,7 +1,7 @@
-Hello my name is Khalid
+Hello my name is Khalid,
 
 I’m an aspiring software developer applying for Degree Apprenticeships in the technology sector
-I enjoy building practical projects using Python and variouse other programming languages listed below, and I’m particularly interested in game development and interactive applications.
+I enjoy building practical projects using Python and various other programming languages listed below, and I’m particularly interested in game development and interactive applications.
 
 ---
 
